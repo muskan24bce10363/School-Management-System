@@ -79,4 +79,8 @@ To digitize and streamline school administration processes through an efficient,
 - Students/Developers learning enterprise Java development
 
 ## Image
-<img height="20" src=""D:\Desktop\prj.png">
+![Image](prj.png)
+## How To Install And Run This Program
+- Downnload git
+
+- In git run the command -  git clone [repository_url]
