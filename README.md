@@ -83,4 +83,6 @@ To digitize and streamline school administration processes through an efficient,
 ## How To Install And Run This Program
 - Downnload git
 
-- In git run the command -  git clone [repository_url]
+- In git run the command -  git clone https://github.com/muskan24bce10363/School-Management-System
+- Now Select Code button and download Zip.
+- Now compiile and run the Main.java
